@@ -15,7 +15,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 3;Choplifter;Arcade/Choplifter.png;Arcade/Choplifter.hex;;
 3;JunoFirst;Arcade/JunoFirst.png;Arcade/JunoFirst.hex;;
 3;Karateka;Arcade/Karateka.png;Arcade/Karateka.hex;;
-3;LodeRunner;Arcade/LodeRunner.png;Arcade/LodeRunner.hex;;
+3;LodeRunner;Arcade/LodeRunner.png;Arcade/LodeRunner.hex;Arcade/fxdata-data.bin;
 3;LoveRush;Arcade/LoveRush.png;Arcade/LoveRush.hex;;
 3;OBS;Arcade/OBS.png;Arcade/OBS.hex;;
 3;SpaceCab;Arcade/SpaceCab.png;Arcade/SpaceCab.hex;;
@@ -28,7 +28,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;TurtleBridge;Game & Watch/TurtleBridge.png;Game & Watch/TurtleBridge.hex;;
 5;Puzzle;category-screens/Puzzle.png;;;
 5;Buttonstrail;Puzzle/Buttonstrail.png;Puzzle/Buttonstrail.hex;;
-5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;;
+5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;Puzzle/fxdata-data.bin;
 5;Logix;Puzzle/Logix.png;Puzzle/Logix.hex;;
 5;PiCross;Puzzle/PiCross.png;Puzzle/PiCross.hex;;
 5;Pipes;Puzzle/Pipes.png;Puzzle/Pipes.hex;;
