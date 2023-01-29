@@ -1,4 +1,4 @@
-# microcade Flaschart
+# microcade Flashcart
 microcade diy game console
 ---
 
